@@ -1,3 +1,6 @@
-# college-event-management-system
-
-h
+parkhar
+nirmal
+aman
+govind
+krish
+aayush
